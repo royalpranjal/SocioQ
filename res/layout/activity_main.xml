@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="500dp"
+    android:layout_height="800dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="-100dp"
+    android:orientation="vertical"
+    tools:context="com.pranjal.questionnaire.MainActivity">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="600dp"
+        android:paddingLeft="-100dp"
+        android:src="@drawable/splash"
+        />
+
+</LinearLayout>
